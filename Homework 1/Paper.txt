@@ -1,0 +1,6 @@
+GUI is a type of interface essentially for visualizing the contents of a device/program. GUIs are much simpler and easier for 
+the average person to use than command line, but it doesn't give you full access to the device and limits what you're able to
+do with it. The CLI functions largely in the same way, but entirely through a bare text interface. It's like staring directly 
+into the bare guts of the computer and being able to manipulate them by hand instead of having select parts filtered through 
+the GUI. It's a lot more open-ended, but also much more complicated to learn and you'll run a slightly higher risk of making 
+mistakes that permanently mess up your device if you don't know what you're doing.
